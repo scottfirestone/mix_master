@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'rails_helper'
 
 RSpec.feature "User edits an artist" do
   scenario 'They see the updated data for the individual artist' do
